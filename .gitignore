@@ -1,1 +1,10 @@
-.class
+# IntelliJ
+.idea/
+
+# Build output
+out/
+bin/
+*.class
+
+# OS
+.DS_Store
